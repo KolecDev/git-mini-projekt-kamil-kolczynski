@@ -4,8 +4,8 @@
 
 ## Autor
 
-Imię i nazwisko: ........................................
-Klasa / grupa: ..........................................
+Imię i nazwisko: Kolczyński Kamil........................................
+Klasa / grupa: 4TP..........................................
 
 ## Cel projektu
 
@@ -43,4 +43,4 @@ W repozytorium ma być co najmniej 10 commitów. W tym miejscu opisz krótko, co
 
 ## Link do repozytorium
 
-Wklej link do publicznego repozytorium GitHub: ........................................
+Wklej link do publicznego repozytorium GitHub: https://github.com/KolecDev/git-mini-projekt-kamil-kolczynski
