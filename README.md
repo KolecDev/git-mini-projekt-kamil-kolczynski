@@ -13,7 +13,7 @@ Napisz własnymi słowami, po co powstał projekt i czego uczysz się podczas pr
 
 ## Opis projektu
 
-Mini projekt jest prostą stroną/notesem o nauce Gita. Zawiera pliki HTML, CSS, JS, dokumentację w katalogu `docs` oraz przykładowe dane w katalogu `data`.
+Projekt dotyczy ćwiczenia historii zmian, pracy na branchach i publikacji repozytorium na GitHub.
 
 ## Jak uruchomić projekt
 
@@ -44,3 +44,12 @@ W repozytorium ma być co najmniej 10 commitów. W tym miejscu opisz krótko, co
 ## Link do repozytorium
 
 Wklej link do publicznego repozytorium GitHub: https://github.com/KolecDev/git-mini-projekt-kamil-kolczynski
+
+### Moje najważniejsze komendy
+
+git init -> tworzy repo lokalne
+git add . -> Dodaje wszystkie pliki z bieżącego folderu
+git commit -m "<OPIS>" -> zapisuje zmiany w lokalnym repo
+git branch <nazwa_brancha> -> przełącza między branchami
+git status -> wypisuje zmiany przed wykonaniem commita
+
