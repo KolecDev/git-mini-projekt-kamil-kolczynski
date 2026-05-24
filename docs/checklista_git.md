@@ -1,9 +1,9 @@
 # Checklista Git
 
-- [ ] `git init` wykonane lokalnie.
-- [ ] Wykonano pierwszy commit.
-- [ ] Utworzono publiczne repozytorium na GitHub.
-- [ ] Dodano remote `origin`.
+- [x] `git init` wykonane lokalnie.
+- [x] Wykonano pierwszy commit.
+- [x] Utworzono publiczne repozytorium na GitHub.
+- [x] Dodano remote `origin`.
 - [ ] Wysłano branch `main` na GitHub.
 - [ ] Utworzono trzy branche robocze.
 - [ ] Wykonano co najmniej 10 commitów.
