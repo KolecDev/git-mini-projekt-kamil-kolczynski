@@ -1,11 +1,11 @@
 # Checklista Git
 
-- [ ] `git init` wykonane lokalnie.
-- [ ] Wykonano pierwszy commit.
-- [ ] Utworzono publiczne repozytorium na GitHub.
-- [ ] Dodano remote `origin`.
-- [ ] Wysłano branch `main` na GitHub.
-- [ ] Utworzono trzy branche robocze.
-- [ ] Wykonano co najmniej 10 commitów.
-- [ ] Zmiany z branchy są scalone do `main`.
-- [ ] Link do repozytorium został oddany w Classroom.
+- [x] `git init` wykonane lokalnie.
+- [x] Wykonano pierwszy commit.
+- [x] Utworzono publiczne repozytorium na GitHub.
+- [x] Dodano remote `origin`.
+- [x] Wysłano branch `main` na GitHub.
+- [x] Utworzono trzy branche robocze.
+- [x] Wykonano co najmniej 10 commitów.
+- [x] Zmiany z branchy są scalone do `main`.
+- [x] Link do repozytorium został oddany w Classroom.
